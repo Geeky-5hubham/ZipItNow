@@ -1,4 +1,4 @@
-# ZipItNow
+
 
 # ZipItNow - Huffman Coding File Compression
 
